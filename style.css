@@ -1,0 +1,30 @@
+.head1{
+    color: red;
+    text-decoration: underline;
+
+}
+
+body{
+    background-color: lightblue;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label{
+    color: red;
+    font-weight: bold;
+    display: block;
+    
+  
+}
+p{
+    color: red;
+    background-color: white;
+    font-size: x-large;
+    
+}
+h2{
+    color: red;
+}
+
